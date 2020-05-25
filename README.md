@@ -1,3 +1,3 @@
 # MatchStick-Trouble
 MatchStick game using Tkinter
-Editing the file
+Use python IDLE or Pycharm to open Matchstick Trouble.py
